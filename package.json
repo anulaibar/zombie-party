@@ -1,0 +1,22 @@
+{
+  "name": "zombie-party",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anulaibar/zombie-party.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anulaibar/zombie-party/issues"
+  },
+  "homepage": "https://github.com/anulaibar/zombie-party#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
